@@ -38,15 +38,11 @@ pdfplumber, pandas, zipfile.
 
 Foram criados scripts SQL compatíveis com MySQL 8 para estruturar os dados extraídos.
 
-Tarefas Executadas:
-
-Download dos arquivos de demonstrações contábeis dos últimos 2 anos do repositório ANS - Dados Abertos.
-
-Download dos dados cadastrais das operadoras ativas no formato CSV de ANS - Operadoras Ativas.
-
 Criação de queries SQL para estruturar tabelas necessárias para armazenar os dados dos arquivos CSV.
 
 Importação dos arquivos para as tabelas, garantindo o encoding adequado.
+
+Obs: As querys de pesquisa foram colocadas no arquivo "querys.txt"
 
 Tecnologias Utilizadas:
 
